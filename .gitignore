@@ -1,0 +1,5 @@
+node_modules/
+artifacts/
+cache/
+hardhat.setting.json
+scripts/test.ts

@@ -1,0 +1,7 @@
+{
+  "rinkeby": {
+    "alchemy_api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "mnemonic": "test test test test test test test test test test test junk"
+  },
+  "etherscanApiKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
